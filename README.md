@@ -1,2 +1,12 @@
-# test
-test is my first repository
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+
+<h1>Welcome to My Website</h1>
+<p>This is a simple HTML page.</p>
+
+</body>
+</html>
